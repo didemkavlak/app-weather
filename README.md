@@ -6,7 +6,7 @@ This project is weather app. This project was used React.js and axios. It's used
 
 ## Demo
 
-[Live Demo](https://didemkavlak.github.io/weather-app/)
+[Live Demo](https://didemkavlak.github.io/app-weather/)
 
 
 
